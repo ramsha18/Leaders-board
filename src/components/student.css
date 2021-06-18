@@ -1,0 +1,76 @@
+.student{
+    width: 700px;
+    margin: 30px auto;
+}
+.head {
+    width: 700px;
+    margin: 0 auto;
+    font-weight: 600;
+    font-size: x-large;
+}
+h1 {
+    color: green;
+    font-size: 34px;
+}
+.left {
+    display: inline-block;
+    width: 60%;
+    text-align: left;
+    vertical-align: middle;
+}
+.right {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+    vertical-align: middle;
+}
+h2.stdname {
+    padding: 0px;
+    margin: 0px;
+    font-size: 25px;
+    font-family: serif;
+}
+p.uni {
+    padding: 0px;
+    margin: 0px;
+    color: rgb(119, 118, 118);
+    font-size: 15px;
+    text-align:left;
+}
+.score{
+    font-size: 30px;
+    font-weight: bold;
+}
+hr {
+    width: 700px;
+    border-top: 1px solid rgb(236, 235, 235);
+}
+.btn {
+    display: inline;
+    margin-left: 5px;
+}
+button {
+    outline: none;
+    border: none;
+    background-color: gold;
+    border-radius: 12px;
+    margin-left: 9px;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+button:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+span {
+    margin-left: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 3px;
+    padding-bottom: 2px;
+}
